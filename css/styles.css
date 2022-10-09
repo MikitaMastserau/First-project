@@ -1,11 +1,11 @@
 body {
     padding: 15px;
+    font-family: 'Raleway', sans-serif;
 }
 
 .container {
     width: 1170px;
     margin: auto;
-    font-family: 'Raleway', sans-serif;
 }
 
 .header {
